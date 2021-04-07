@@ -1,0 +1,25 @@
+{
+	"name": "notify.ahk",
+	"version": "0.1.0",
+	"description": "Creates modern looking tray notifications",
+	"main": "export.ahk",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Chunjee/nofify.ahk"
+	},
+	"devDependencies": {
+		"unit-testing.ahk": "^0.6.0"
+	},
+	"author": "Shawn Brooker",
+	"contributors": [
+		{
+			"name": "Shawn Brooker",
+			"url": "https://github.com/chunjee"
+		},
+		{
+			"name": "maestrith",
+			"url": "https://github.com/maestrith"
+		}
+	],
+	"license": "MIT"
+}
